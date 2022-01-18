@@ -16,3 +16,7 @@ The key to being a good developer is to get out of your own way, be simple, unde
 4. To solve problems you should understand, plan and then divide usually reading will get you a long way as everything has a solution if you cant think of it no shame in asking for help, but finally don’t be a slave to modern tech. try and be your own master.
 
 ##### *This probably took 15 minutes to read ;)*
+
+![image](wireframe.jpg)
+
+here in the wire frame branch
