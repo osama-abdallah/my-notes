@@ -17,5 +17,6 @@ The key to being a good developer is to get out of your own way, be simple, unde
 
 ##### *This probably took 15 minutes to read ;)*
 
-![image](/mnt/c/Users/Osama abdallah/task1/my-notes/img/task 2 wireframe.jpg)
+![image](wireframe.jpg)
 
+here in the wire frame branch
